@@ -1,0 +1,41 @@
+{
+  "item": {
+    "itemId": "2369676",
+    "primaryInformation": {
+      "itemType": "Standard",
+      "description": "VOLUSPA Mini Spiced Pumpkin Latte Glass Candle-5.5 oz/ 156 g  ",
+      "shortDescription": "VOLUSPA Mini Spiced Pumpkin Latte Glass Candle-5.5 oz/ 156 g  ",
+      "allowGiftWrap": "Y",
+      "assumeInfiniteInventory": "N",
+      "countryOfOrigin": "10001",
+      "extendedDescription": "VOL SPL SMALL JAR F22    ",
+      "isHazmat": "N",
+      "isReturnable": "Y",
+      "isShippingAllowed": "Y",
+      "manufacturerName": "10001",
+      "status": "3000"
+    },
+    "extn": {
+      "extnBIType": "None",
+      "extnBrand": "VOLUSPA",
+      "extnClassNumber": "220",
+      "extnDeptNumber": "20",
+      "extnMCSBrandId": "6245",
+      "extnSubclassNumber": "22744",
+      "extnSize": "5.5 oz/ 156 g"
+    },
+    "itemAliasList": {
+      "itemAlias": [
+        {
+          "aliasName": "UPC1",
+          "aliasValue": "000806644735212"
+        }
+      ]
+    },
+    "action": "Manage",
+    "itemGroupCode": "PROD",
+    "organizationCode": "SEPHORAUS",
+    "unitOfMeasure": "EACH",
+    "lastModifiedDateTime": "2023-07-07T01:07:42.021-08:00"
+  }
+}
