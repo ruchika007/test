@@ -1,0 +1,1663 @@
+{
+  "id": "2319820",
+  "name": "2319820",
+  "type": "sku",
+  "properties": {
+    "createdService": "entityManageService",
+    "createdBy": "system_user",
+    "createdDate": "2022-03-19T17:38:56.428-0700",
+    "recordId": "40656ca7-b9eb-4f9a-9f0e-ef99f7763305",
+    "rowNo": 1128,
+    "modifiedService": "entityManageService",
+    "modifiedBy": "system_user",
+    "modifiedDate": "2023-12-07T03:54:53.948-0800"
+  },
+  "data": {
+    "attributes": {
+      "classnumber": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "740",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "fraudrisklevel": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "None",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "1",
+              "referenceData": "reffraudrisklevel/q27w3bvDQ0eG8kGZ8unbFQ"
+            }
+          }
+        ]
+      },
+      "skustate": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "Not Retired",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "2",
+              "referenceData": "refskustate/qR-YdRQ-RYiIpk4j2zBEJA"
+            }
+          }
+        ]
+      },
+      "mcshazmatvalue": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "FALSE",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "comingsoon": {
+        "values": [
+          {
+            "id": "742_0_0",
+            "value": true,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "brandname": {
+        "values": [
+          {
+            "id": "749_0_0",
+            "value": "OUAI",
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "populatebrandnamefrombrandentity_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "isstoreonly": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "outofstocktreatment": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "Show SKU - With Back-in-Stock Reminder (Used for Sellable)",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "2",
+              "referenceData": "refoutofstocktreatment/5rmpgXQ6QTGsUYUUO3X8xQ"
+            }
+          }
+        ]
+      },
+      "isthisproductvegan": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "atgpreviewurl": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "https://true-azre1-preview.sephora.com/product/ouai-haircare-detox-shampoo-P457223?skuId\u003d2319820",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "appexclusive": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "reservationsenabled": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": true,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "doesthisproductcontaincbd": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "excludefromsearch": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "paypalrestricted": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "hairconcerns": {
+        "values": [
+          {
+            "id": "321_0_0",
+            "value": "Scalp Build Up",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "1400004",
+              "referenceData": "refhairconcerns/ersQtOOySqAo9vH"
+            }
+          },
+          {
+            "id": "321_0_1",
+            "value": "Flaky/Dry Scalp",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "100014",
+              "referenceData": "refhairconcerns/0dUnNMibRbukSqn_efyp4g"
+            }
+          },
+          {
+            "id": "490_0_0",
+            "value": "Oily Scalp",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "1400001",
+              "referenceData": "refhairconcerns/ersJNsvW2qW3KRa"
+            }
+          }
+        ]
+      },
+      "biexclusivelevel": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "none",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "none",
+              "referenceData": "refbiexclusivelevel/f26dc4f3-1254-4600-b284-7e8b5e891ab5"
+            }
+          }
+        ]
+      },
+      "mcsdescription": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "OUAI DETOX SHAMPOO",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "ingredientpreferences": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "Sulfate-free",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "200001",
+              "referenceData": "refingredientpreferences/QJMWupbuTHGwE8hJYn02Bg"
+            }
+          },
+          {
+            "id": "1_1",
+            "value": "Paraben-free",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "100003",
+              "referenceData": "refingredientpreferences/pJHIkVGGRi6mm_wTY8mxlA"
+            }
+          }
+        ]
+      },
+      "availablecountries": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "US",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "10001",
+              "referenceData": "refbrandavailablecountries/i3Sm_l25TnSlx08bEfbO5g"
+            }
+          },
+          {
+            "id": "1_1",
+            "value": "Canada",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "10002",
+              "referenceData": "refbrandavailablecountries/LoiflT__Rfqan_tpiGbPRQ"
+            }
+          }
+        ]
+      },
+      "upc": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "0815402021290",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "donotsendskutowarehouseforshipment": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "isthisproductonlineonly": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "merchandisingtaxonomy": {
+        "values": [
+          {
+            "id": "42_0",
+            "value": "Merchandising Taxonomy\u003e\u003eHair\u003e\u003eHair Products",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "hairproducts",
+              "refIdPath": "merchandisingtaxonomyroot\u003e\u003ehair\u003e\u003ehairproducts",
+              "referenceData": "classification/hairproducts"
+            }
+          }
+        ]
+      },
+      "heroimage": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "https://www.sephora.com/productimages/sku/2319820-smain-zoom.jpg",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "fullingredientslistpublished": {
+        "values": [
+          {
+            "id": "6_0",
+            "value": "\u003cp\u003e-Chelating Agents: Helps remove hard water deposits and impurities.\u003c/p\u003e\u003cp\u003e-Apple Cider Vinegar: Helps exfoliate and remove flakes, residue, and buildup, keeping hair healthy and shiny.\u003c/p\u003e\u003cp\u003e-Hydrolyzed Keratin: Helps soften, smooth, frizz and add shine.\u003c/p\u003e\u003cp\u003eAQUA (WATER, EAU), SODIUM C14-16 OLEFIN SULFONATE, SODIUM LAUROYL METHYL ISETHIONATE, COCAMIDOPROPYL BETAINE, DECYL GLUCOSIDE, ACRYLATES COPOLYMER, COCAMIDE MIPA, PARFUM (FRAGRANCE), POLYSORBATE 20, HYDROLYZED KERATIN,   HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, VINEGAR, PEG-150 DISTEARATE,    POLYQUATERNIUM-7, GLYCERIN, BENZOPHENONE-4, SODIUM CHLORIDE, SODIUM HYDROXIDE,   TETRASODIUM EDTA, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, ISOPROPYL ALCOHOL,    PROPYLENE GLYCOL, CITRIC ACID, DISODIUM EDTA, CHLORPHENESIN, SODIUM BENZOATE, PHENOXYETHANOL, POTASSIUM SORBATE, LINALOOL, CITRONELLOL, CI 14700 (RED 4), CI 19140 (YELLOW 5), CI 61570 (GREEN 5)\u003c/p\u003e",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "displayskuasproductinsearchresult": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "hidefromsale": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "seofriendlyurl": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "/product/ouai-haircare-detox-shampoo-P457223",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "newuntildate": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "2020-08-16T00:00:00.000-0700",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "bitype": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "None",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "standardproductonboardingcompleted": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": true,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "departmentnumber": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "16",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "mcsbrandid": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "6144",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "prop65restricted": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "productline": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "Merch",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "1",
+              "referenceData": "refproductline/u3Pbkg7pQKCp6MtXDQ11Fg"
+            }
+          }
+        ]
+      },
+      "nonreturnable": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "isactive": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": true,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "isthisproductnewtosephora": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "isthisacleanatsephoraproduct": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "primaryproduct": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "P457223",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "firstaccess": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "subclassnumber": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "74524",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "giftwrappable": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": true,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "productname": {
+        "values": [
+          {
+            "id": "50_0",
+            "value": "Detox Shampoo",
+            "locale": "en-US",
+            "os": "graph",
+            "osid": "P457223",
+            "ostype": "product",
+            "source": "internal"
+          },
+          {
+            "id": "50_1",
+            "value": "Shampooing Detox",
+            "locale": "fr-CA",
+            "os": "graph",
+            "osid": "P457223",
+            "ostype": "product",
+            "source": "internal"
+          }
+        ]
+      },
+      "enterpriseskuid": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "2319820",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "discountable": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": true,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "palettesize": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "10 oz/ 300 mL",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "isthisproductlimitededition": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "maxpurchaseqtyperorder": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": 10,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "isthisacustomizableset": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "uslivedate": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "2020-04-17T00:00:00.000-0700",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "isbiexclusive": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "highlights": {
+        "values": [
+          {
+            "id": "350_0_0",
+            "value": "Good for: Oily Scalp",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "900081",
+              "referenceData": "refhighlights/yjaCv-IASGWbvysm2prQcA"
+            }
+          },
+          {
+            "id": "350_0_1",
+            "value": "Increases Shine",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "900071",
+              "referenceData": "refhighlights/5Gr05bhZQTCdXP7LuYBGcQ"
+            }
+          },
+          {
+            "id": "350_0_2",
+            "value": "All Hair Types",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "900099",
+              "referenceData": "refhighlights/YWjjnOdxRsuVndfNgWusNQ"
+            }
+          },
+          {
+            "id": "350_0_3",
+            "value": "Floral Scent",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "900101",
+              "referenceData": "refhighlights/5caT5F-aRdiO1PmeTwa7Fg"
+            }
+          },
+          {
+            "id": "350_0_4",
+            "value": "Cruelty-Free",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "900009",
+              "referenceData": "refhighlights/ersh9dEF7OGI0Df"
+            }
+          },
+          {
+            "id": "350_0_5",
+            "value": "Trending on social",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "4600001",
+              "referenceData": "refhighlights/erslWp4g0C0swXQ"
+            }
+          }
+        ]
+      },
+      "callcenteronly": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "associatedproducts": {
+        "values": [
+          {
+            "id": "749_0_0",
+            "value": "P457223",
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "populateassociatedproducts_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "productisexclusivetosephora": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "limitedtimeoffer": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "skutype": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "Standard",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "1",
+              "referenceData": "refskutype/A-lX6REpSxCBGSrKVn5Z0A"
+            }
+          }
+        ]
+      },
+      "countryofmanufacture": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "20",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "effectivelyavailablecountries": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "US",
+            "locale": "en-US",
+            "source": "internal"
+          },
+          {
+            "id": "1_1",
+            "value": "Canada",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "translationworkflowcompletion": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "system_user",
+            "locale": "en-US",
+            "invalidValue": "system_user",
+            "os": "defaults",
+            "osid": "sku_entityDefaultValuesModel",
+            "ostype": "entityDefaultValuesModel",
+            "source": "internal"
+          }
+        ]
+      },
+      "requiretranslation": {
+        "values": [
+          {
+            "id": "2_0",
+            "value": true,
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "setrequiretranslationflagastrueontranslatableattributesupdate_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "calculatetax": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "TRUE",
+            "locale": "en-US",
+            "invalidValue": "TRUE",
+            "source": "internal"
+          }
+        ]
+      },
+      "lastimagesequence": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": 0,
+            "locale": "en-US",
+            "os": "defaults",
+            "osid": "sku_entityDefaultValuesModel",
+            "ostype": "entityDefaultValuesModel",
+            "source": "internal"
+          }
+        ]
+      },
+      "nonstandardproductonboardingcompleted": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "os": "defaults",
+            "osid": "sku_entityDefaultValuesModel",
+            "ostype": "entityDefaultValuesModel",
+            "source": "internal"
+          }
+        ]
+      },
+      "dummystandardbrandmaintenancepublishvalidation": {
+        "values": [
+          {
+            "id": "326_0_0",
+            "value": true,
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "setworkflowfivesixandeightstatus_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "dummystandardinternalmaintenancepublishvalidation": {
+        "values": [
+          {
+            "id": "748_0_0",
+            "value": true,
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "setworkflowfivesixandeightstatus_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "triggernewskuisminirel": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "system_user",
+            "locale": "en-US",
+            "invalidValue": "system_user",
+            "os": "defaults",
+            "osid": "sku_entityDefaultValuesModel",
+            "ostype": "entityDefaultValuesModel",
+            "source": "internal"
+          }
+        ]
+      },
+      "cleanplanetpositive": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": false,
+            "locale": "en-US",
+            "os": "defaults",
+            "osid": "hairproducts_entityDefaultValuesModel",
+            "ostype": "entityDefaultValuesModel",
+            "source": "internal"
+          }
+        ]
+      },
+      "isthisproductaminisize": {
+        "values": [
+          {
+            "id": "1_0",
+            "value": "No",
+            "locale": "en-US",
+            "os": "defaults",
+            "osid": "hairproducts_entityDefaultValuesModel",
+            "ostype": "entityDefaultValuesModel",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "1",
+              "referenceData": "refproductsizetype/baf26996-e075-454c-9585-28188c7068fb"
+            }
+          }
+        ]
+      },
+      "internalmaintenanceworkflowinitiator": {
+        "values": [
+          {
+            "id": "722_0_0",
+            "value": "sephora.systemadmin@riversand.com",
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "updateinternalmaintenancestandardproductforskuOnUpdateEntity_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "workflowactivityassigneduser": {
+        "values": [
+          {
+            "id": "744_0_0",
+            "value": "_UNASSIGNED",
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "setworkflowassigneduserforinternalmaintenancestandardproductmerchandisingreviewstep_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "internalmaintenancemerchandisingreviewsubmitteduser": {
+        "values": [
+          {
+            "id": "746_0_0",
+            "value": "sephora.systemadmin@riversand.com",
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "captureinternalmaintenancemerchandisingreviewstepsubmitteduser_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "shopnumber": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": "0700",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "pricing": {
+        "group": [
+          {
+            "id": "740_0_0",
+            "locale": "en-US",
+            "source": "internal",
+            "listprice": {
+              "values": [
+                {
+                  "id": "740_0_0_0",
+                  "value": 32,
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            },
+            "newprice": {
+              "values": [
+                {
+                  "id": "740_0_0_0",
+                  "value": 32,
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            },
+            "newpriceeffectivedate": {
+              "values": [
+                {
+                  "id": "740_0_0_0",
+                  "value": "2023-10-20T00:00:00.000-0700",
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            },
+            "saleprice": {
+              "values": [
+                {
+                  "id": "740_0_0_0",
+                  "value": "000000000",
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            },
+            "salepricestartdate": {
+              "values": [
+                {
+                  "id": "740_0_0_0",
+                  "value": "000000",
+                  "locale": "en-US",
+                  "invalidValue": "000000",
+                  "source": "internal"
+                }
+              ]
+            },
+            "salepriceenddate": {
+              "values": [
+                {
+                  "id": "740_0_0_0",
+                  "value": "000000",
+                  "locale": "en-US",
+                  "invalidValue": "000000",
+                  "source": "internal"
+                }
+              ]
+            },
+            "currencycode": {
+              "values": [
+                {
+                  "id": "740_0_0_0",
+                  "value": "US",
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            }
+          },
+          {
+            "id": "740_0_1",
+            "locale": "en-US",
+            "source": "internal",
+            "listprice": {
+              "values": [
+                {
+                  "id": "740_0_1_0",
+                  "value": 41,
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            },
+            "newprice": {
+              "values": [
+                {
+                  "id": "740_0_1_0",
+                  "value": 41,
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            },
+            "newpriceeffectivedate": {
+              "values": [
+                {
+                  "id": "740_0_1_0",
+                  "value": "2023-10-20T00:00:00.000-0700",
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            },
+            "saleprice": {
+              "values": [
+                {
+                  "id": "740_0_1_0",
+                  "value": "000000000",
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            },
+            "salepricestartdate": {
+              "values": [
+                {
+                  "id": "740_0_1_0",
+                  "value": "000000",
+                  "locale": "en-US",
+                  "invalidValue": "000000",
+                  "source": "internal"
+                }
+              ]
+            },
+            "salepriceenddate": {
+              "values": [
+                {
+                  "id": "740_0_1_0",
+                  "value": "000000",
+                  "locale": "en-US",
+                  "invalidValue": "000000",
+                  "source": "internal"
+                }
+              ]
+            },
+            "currencycode": {
+              "values": [
+                {
+                  "id": "740_0_1_0",
+                  "value": "CA",
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "taxcode": {
+        "values": [
+          {
+            "id": "712_0_0",
+            "value": 100,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "replenishmentFreqNum": {
+        "values": [
+          {
+            "id": "84_0_0",
+            "value": "3",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "3",
+              "referenceData": "refSubscripFrequencyNum/c50e7c27-6b4a-428f-b3d4-2534a752f988"
+            }
+          }
+        ]
+      },
+      "replenishmentEnabledCountries": {
+        "values": [
+          {
+            "id": "42_0",
+            "value": "Canada",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "10002",
+              "referenceData": "refbrandavailablecountries/LoiflT__Rfqan_tpiGbPRQ"
+            }
+          },
+          {
+            "id": "42_1",
+            "value": "US",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "10001",
+              "referenceData": "refbrandavailablecountries/i3Sm_l25TnSlx08bEfbO5g"
+            }
+          }
+        ]
+      },
+      "replenishmentFreqType": {
+        "values": [
+          {
+            "id": "42_0",
+            "value": "Month",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "2",
+              "referenceData": "refSubscripFrequencyType/ersu2TVuEM1eFmT"
+            }
+          }
+        ]
+      },
+      "hairtype": {
+        "values": [
+          {
+            "id": "452_0_0",
+            "value": "Fine",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "400001",
+              "referenceData": "refhairtype/ersKUHWs7fVzLYp"
+            }
+          },
+          {
+            "id": "452_0_1",
+            "value": "Medium",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "400002",
+              "referenceData": "refhairtype/ersxI1qXjEbZV3g"
+            }
+          },
+          {
+            "id": "452_0_2",
+            "value": "Thick",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "400003",
+              "referenceData": "refhairtype/ersiECuV1VotcfW"
+            }
+          }
+        ]
+      },
+      "replenishmentplan": {
+        "values": [
+          {
+            "id": "159_0_0",
+            "value": "Tier1",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "300002",
+              "referenceData": "refreplenishmentplan/ersQfYlYaFPPpO2"
+            }
+          }
+        ]
+      },
+      "hairtexturedhg": {
+        "values": [
+          {
+            "id": "321_0_0",
+            "value": "Straight",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "200001",
+              "referenceData": "refhairtexturedhg/erscoI7jMtawcBD"
+            }
+          },
+          {
+            "id": "321_0_1",
+            "value": "Wavy",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "200002",
+              "referenceData": "refhairtexturedhg/ers1UlhDqGyz2Ss"
+            }
+          },
+          {
+            "id": "321_0_2",
+            "value": "Curly",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "200003",
+              "referenceData": "refhairtexturedhg/ersoCn0ezLauuNS"
+            }
+          },
+          {
+            "id": "321_0_3",
+            "value": "Coily",
+            "locale": "en-US",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "200004",
+              "referenceData": "refhairtexturedhg/ersPvAhML4Wcejj"
+            }
+          }
+        ]
+      },
+      "merchandisingreviewsubmitteduser": {
+        "values": [
+          {
+            "id": "324_0_0",
+            "value": "Uyenvy.Le@sephora.com",
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "capturemerchandisingreviewstepsubmitteduser_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "assignedusertest": {
+        "values": [
+          {
+            "id": "532_0_0",
+            "value": "Khyley.Villanueva@sephora.com",
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "autoassignmentoninternalmaintenancestandardproductpublishproduct_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "publishingsla": {
+        "values": [
+          {
+            "id": "722_0_0",
+            "value": "3-4 days",
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "updateinternalmaintenancestandardproductforskuOnUpdateEntity_businessRule",
+            "ostype": "businessRule",
+            "source": "internal",
+            "properties": {
+              "referenceDataIdentifier": "3",
+              "referenceData": "refpublishsla/2d0264b1-18d2-474d-8e36-10d963c195a7"
+            }
+          }
+        ]
+      },
+      "internalcomments": {
+        "values": [
+          {
+            "id": "727_0_0",
+            "value": "P457223",
+            "locale": "en-US",
+            "os": "businessRule",
+            "osid": "setischildofrelationships_businessRule",
+            "ostype": "businessRule",
+            "source": "internal"
+          }
+        ]
+      },
+      "hawaiihazmatvalue": {
+        "values": [
+          {
+            "id": "740_0_0",
+            "value": false,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "triggerproducttoskubusinessconditionstatus": {
+        "values": [
+          {
+            "id": "396_0_0",
+            "value": "2023-04-06T16:31:15.224-0700",
+            "locale": "en-US",
+            "os": "graph",
+            "osid": "P457223",
+            "ostype": "product",
+            "source": "internal"
+          }
+        ]
+      },
+      "imageattributeassociation": {
+        "values": [
+          {
+            "id": "558_0_0",
+            "value": "updated",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "replenishmentenabled": {
+        "values": [
+          {
+            "id": "704_0_0",
+            "value": true,
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "nonstdsize": {
+        "values": [
+          {
+            "id": "708_0_0",
+            "value": "10 oz/ 300 mL",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "bulkexporttrigger": {
+        "values": [
+          {
+            "id": "726_0_0",
+            "value": "CT Export ",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "skuvariationsize": {
+        "values": [
+          {
+            "id": "720_0_0",
+            "value": "10 oz/ 300 mL",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      },
+      "comingsoonenddate": {
+        "values": [
+          {
+            "id": "742_0_0",
+            "value": "2024-12-31T00:00:00.000-0800",
+            "locale": "en-US",
+            "source": "internal"
+          }
+        ]
+      }
+    },
+    "relationships": {
+      "hasimages": [
+        {
+          "id": "1_0",
+          "relTo": {
+            "id": "2319820-main-zoom",
+            "type": "image",
+            "data": {
+              "attributes": {
+                "aempublishedasseturl": {
+                  "values": [
+                    {
+                      "id": "1_0",
+                      "value": "https://www.sephora.com/productimages/sku/s2319820-main-zoom.jpg",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                },
+                "property_originalfilename": {
+                  "values": [
+                    {
+                      "id": "1_0",
+                      "value": "s2319820-main-zoom.jpg",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "properties": {
+            "relationshipType": "hasimages",
+            "direction": "both"
+          },
+          "attributes": {
+            "isprimary": {
+              "values": [
+                {
+                  "id": "1_0",
+                  "value": true,
+                  "locale": "en-US",
+                  "source": "internal"
+                }
+              ]
+            },
+            "publishedurl": {
+              "values": [
+                {
+                  "id": "559_0_0",
+                  "value": "https://www.sephora.com/productimages/sku/s2319820-main-zoom.jpg",
+                  "locale": "en-US",
+                  "os": "businessRule",
+                  "osid": "copypublishedurl_businessRule",
+                  "ostype": "businessRule",
+                  "source": "internal"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "relatedhighlights": [
+        {
+          "id": "690_0_0",
+          "relTo": {
+            "id": "498ff925-3cc6-4afe-85d8-f46e5b8aebe9",
+            "type": "highlight",
+            "data": {
+              "attributes": {
+                "highlightid": {
+                  "values": [
+                    {
+                      "id": "9_0_0",
+                      "value": "4600001",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "690_0_1",
+          "relTo": {
+            "id": "45d90df2-7f55-4254-ac75-f172d5116721",
+            "type": "highlight",
+            "data": {
+              "attributes": {
+                "highlightid": {
+                  "values": [
+                    {
+                      "id": "9_0_0",
+                      "value": "900009",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "690_0_2",
+          "relTo": {
+            "id": "24921ffd-c29b-447b-a16f-46c4c6bf903d",
+            "type": "highlight",
+            "data": {
+              "attributes": {
+                "highlightid": {
+                  "values": [
+                    {
+                      "id": "9_0_0",
+                      "value": "900071",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "690_0_3",
+          "relTo": {
+            "id": "4ba792cd-192d-46b2-b686-8b1f5e871371",
+            "type": "highlight",
+            "data": {
+              "attributes": {
+                "highlightid": {
+                  "values": [
+                    {
+                      "id": "9_0_0",
+                      "value": "900081",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "690_0_4",
+          "relTo": {
+            "id": "6058ba47-bd24-4dc4-8912-e1ba3a9a2139",
+            "type": "highlight",
+            "data": {
+              "attributes": {
+                "highlightid": {
+                  "values": [
+                    {
+                      "id": "9_0_0",
+                      "value": "900099",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": "690_0_5",
+          "relTo": {
+            "id": "26eacd8b-7727-4a03-a093-16d532acb358",
+            "type": "highlight",
+            "data": {
+              "attributes": {
+                "highlightid": {
+                  "values": [
+                    {
+                      "id": "9_0_0",
+                      "value": "900101",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "relatedreplenishmentplan": [
+        {
+          "id": "704_0_0",
+          "relTo": {
+            "id": "0e7aad2f-4fb6-411c-9c29-1ba36bb04c1e",
+            "type": "replenishment",
+            "data": {
+              "attributes": {
+                "replenishmentid": {
+                  "values": [
+                    {
+                      "id": "1_0_0",
+                      "value": "300002",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "ischildof": [
+        {
+          "id": "719_0_8",
+          "relTo": {
+            "id": "P457223",
+            "type": "product",
+            "data": {
+              "attributes": {
+                "productid": {
+                  "values": [
+                    {
+                      "id": "16_0_0",
+                      "value": "P457223",
+                      "locale": "en-US",
+                      "source": "internal"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "os": "businessRule",
+          "osid": "setischildofrelationships_businessRule",
+          "ostype": "businessRule"
+        }
+      ]
+    }
+  }
+}
